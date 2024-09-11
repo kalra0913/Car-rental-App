@@ -1,0 +1,108 @@
+[
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Tesla Model S",
+      "category": "Electric",
+      "title": "Luxury electric sedan with autopilot",
+      "price": "79999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Ford Mustang",
+      "category": "Sports",
+      "title": "High-performance sports car with a V8 engine",
+      "price": "55999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Chevrolet Camaro",
+      "category": "Sports",
+      "title": "Iconic American muscle car",
+      "price": "42999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Toyota Camry",
+      "category": "Sedan",
+      "title": "Reliable and fuel-efficient family sedan",
+      "price": "24999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Honda Civic",
+      "category": "Compact",
+      "title": "Popular compact car with advanced safety features",
+      "price": "21999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "BMW X5",
+      "category": "SUV",
+      "title": "Luxury mid-size SUV with powerful engine options",
+      "price": "61999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Audi Q7",
+      "category": "SUV",
+      "title": "Premium SUV with cutting-edge technology",
+      "price": "64999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Mercedes-Benz C-Class",
+      "category": "Sedan",
+      "title": "Elegant and stylish sedan with a smooth ride",
+      "price": "41999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Porsche 911",
+      "category": "Sports",
+      "title": "Legendary sports car with exceptional performance",
+      "price": "99999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Jeep Wrangler",
+      "category": "Off-Road",
+      "title": "Rugged off-road vehicle with a classic design",
+      "price": "32999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Mazda CX-5",
+      "category": "SUV",
+      "title": "Compact SUV with sporty handling and a premium interior",
+      "price": "29999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Subaru Outback",
+      "category": "Crossover",
+      "title": "Versatile crossover with standard all-wheel drive",
+      "price": "33999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Volkswagen Golf",
+      "category": "Hatchback",
+      "title": "Practical hatchback with a fun-to-drive nature",
+      "price": "23999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Hyundai Sonata",
+      "category": "Sedan",
+      "title": "Affordable midsize sedan with advanced safety features",
+      "price": "24999"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?t=st=1722584885~exp=1722588485~hmac=6ecccc733ddde707c1b5a70f2bbc58c213314c961c506b686ab2a79f80c29d4e&w=740",
+      "name": "Nissan Leaf",
+      "category": "Electric",
+      "title": "Affordable electric car with a decent range",
+      "price": "31999"
+    }
+  ]
+  
